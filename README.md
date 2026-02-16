@@ -1,12 +1,12 @@
 # Titanic Survival Prediction 🚢
 
-## 📌 Project Overview
+##  Project Overview
 This project predicts whether a passenger survived the Titanic disaster using Machine Learning techniques.  
 The goal is to demonstrate a complete ML workflow including data preprocessing, feature engineering, model training, and evaluation.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 Dataset used: Titanic Dataset  
 Features include:
 - Age
@@ -18,7 +18,7 @@ Features include:
 
 ---
 
-## ⚙️ Steps Performed
+##  Steps Performed
 1. Data Cleaning
 2. Handling Missing Values
 3. Feature Encoding
@@ -28,23 +28,23 @@ Features include:
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 - Logistic Regression
 - Decision Tree Classifier
 
 ---
 
-## 📈 Results
+##  Results
 Logistic Regression performed better than Decision Tree on this dataset.
 
 ---
 
-## 🧠 Key Learning
+##  Key Learning
 This project highlights that proper data preprocessing is often more important than model complexity.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Pandas
 - NumPy
