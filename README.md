@@ -53,6 +53,15 @@ This project highlights that proper data preprocessing is often more important t
 
 ---
 
+## 📸 Project Results
+
+### Model Accuracy
+![Model Results](model_results.png)
+
+### Clean Dataset After Preprocessing
+![Clean Data](clean_dataset.png)
+
+
 ## 🚀 Author
 **Purva Badekar**  
 Aspiring AI/ML Engineer
